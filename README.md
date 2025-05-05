@@ -5,7 +5,6 @@ Table of Contents
 
 * [About](#about)
 * [Technologies](#technologies)
-* [Usage](#usage)
 * [Documentation](#documentation)
 
 ## About
@@ -24,11 +23,7 @@ This analysis aims to provide insights into how cities can effectively leverage 
 
 ## Technologies
 
-* No specific technologies are mentioned in the report, but the analysis likely involves data analysis and visualization tools. If code files are included in the repository, programming languages or libraries used should be listed here (e.g., Python, R, etc.).
-
-## Usage
-
-* This section should detail how to use or reproduce the analysis. If there are scripts or data files, specify their location and any setup required.  For example: "To reproduce the analysis, download the datasets from the provided links in the report and use the analysis scripts in the 'scripts' directory."  Since the provided example mentions a specific file, if there are any, they should be mentioned here.
+*Python
 
 ## Documentation
 
